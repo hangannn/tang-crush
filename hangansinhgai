@@ -1,0 +1,19 @@
+const CONFIG = {
+    introTitle: 'Trào cậu',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
+    btnIntro: 'hihi',
+    title: 'Cậu thích tớ phải khum nào ???',
+    desc: 'Nếu cậu hok trả lời mà thoát ra tức là muốn làm ny tớ nheee ',
+    btnYes: 'Thích ơi nà thíchhhhhhhhhhhh
+    btnNo: 'Cậu mơ à :333',
+    question:'Lí do cậu thích tớ là rì thế ????
+    btnReply: 'Gửi cho tớ <3333333
+    reply: 'Vì cậu vừa sinh gái lại còn dễ thương :))))
+    mess: 'Tớ biết mà. Yêu cậu nhìu nhìu
+    messDesc: 'Chìu pubg hok cậu
+    btnAccept: 'Okiiiii lun <3',
+    messLink: 'https://m.me/hangan2304'
+}
